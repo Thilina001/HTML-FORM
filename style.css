@@ -1,0 +1,92 @@
+    
+@charset "UTF-8";
+
+   .wrapper{
+		background:#FFF33F;
+		margin:0 auto;
+		width:600px;
+		border: 1px solid black;
+	}
+
+	.details{
+	
+	 
+	 margin-top: 20px;
+	 margin-bottom: 20px;
+	}
+
+	.details table{
+		margin-top: 10px;
+		margin-left: 10px;
+		padding-top: 20px;
+
+
+	}
+
+
+	 .details table tr td{
+		padding-top: 10px;
+		padding-left: 80px;
+		
+	}
+
+	.courseinfo table{
+		margin-top:10px;
+	}
+	
+
+
+	.courseinfo table tr td {
+		padding-top: 10px;
+		padding-left: 80px;
+	}
+
+	input[type="checkbox"]{
+  width: 20px; /*Desired width*/
+  height: 20px;
+  margin-right: 10px; /*Desired height*/
+  
+}
+
+
+
+.degree {
+	margin-top: 30px;
+}
+.degree table tr td {
+		padding-top: 10px;
+		padding-left: 80px;
+	}
+
+input[type="radio"]{
+  width: 20px; /*Desired width*/
+  height: 20px;
+  margin-right: 10px; 
+}
+
+
+
+
+.textarea{
+
+	margin-top: 30px;
+}
+
+  .textarea h3{
+  	float: left;
+  	margin-left: 50px;
+
+  }
+  .textarea textarea{
+  	margin-left: 40px;
+  	border-style: none;
+  	border-radius: 5px;
+  	background: : gray;
+  }
+
+  .submit{
+  	margin-left: 100px;
+  	padding-right: 100px;
+  	margin-bottom: 20px;
+  	margin-top: 20px;
+  }
